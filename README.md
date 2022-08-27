@@ -6,8 +6,15 @@ Meu repositório descrição
 
 ## Um pouco mis sobre mim 
  - From Campinas
+ 
 
- (adalovelace.jpg)
+
+
+ ## Inspirações
+
+
+ ![Ada Lovelace](adalovelace.jpg)
+
 
 
 
