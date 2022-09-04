@@ -1,19 +1,24 @@
-### Hi there 👋
-<h1 align = "center" > Lya Marciano </h1>
+
+<h1 align = "center" > Hello, world 
+
+Aqui quem fala é Lya Marciano 👽</h1>
 
 
-Meu repositório descrição
+Aprendendo e estudando [sempre que possível 🤭] 
 
-## Um pouco mis sobre mim 
- - From Campinas
- 
+Dicas são sempre bem vindas ✌️
 
 
+ - Data Analytics
+ - De Campinas
+ - Tutora de três gatinhas 😺😽😸
 
- ## Inspirações
 
 
- ![Ada Lovelace](adalovelace.jpg)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lyamarciano/)](https://www.linkedin.com/in/lyamarciano/)
+
+
+
 
 
 
